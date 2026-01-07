@@ -51,6 +51,12 @@ To ensure reliable analysis, the data underwent structured preparation before an
 
 SQL was used to transform raw transactional tables into analytical views. Complex joins, aggregations, and filters were applied to compute metrics such as total revenue per customer, category-level performance, and return frequencies. These views served as the foundation for segmentation and trend analysis.
 
+Key SQL Highlight: Identifying Top 50 High-Value Customers This query demonstrates the use of aggregations and multi-table joins to isolate top revenue-generating customers for targeted marketing campaigns.
+
+SQL QUERY
+
+<img width="400" height="202" alt="image" src="https://github.com/user-attachments/assets/1c56f042-ac23-47fa-83ca-33a7139c637a" />
+
 ### Data Modeling and Visualization (Power BI)
 
 The SQL views were imported into Power BI to establish a relational data model, serving as the foundation for structured business reporting. This phase focused on translating complex datasets into clear, visual summaries of organizational performance.
