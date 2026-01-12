@@ -34,4 +34,4 @@ LIMIT 50;
 - Project Management: Project Brief and problem statement.
 - Scripts: SQL queries answering 15 business-driven questions.
 - Analysis: Power BI dashboard file (.pbix) and exported visuals.
-- Sent to Client: Final presentation slides summarizing findings and recommendations.
+- Report: Final presentation slides summarizing findings and recommendations.
