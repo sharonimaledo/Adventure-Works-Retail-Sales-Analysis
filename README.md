@@ -11,7 +11,7 @@ This repository contains the complete analysis for the Adventure Works project. 
 ## Tools Used
 - Microsoft Excel: Initial data cleaning and preparation.
 - PostgreSQL: Structured data querying and view creation.
-- Power BI: Interactive data modeling and dashboard development.
+- Power BI: Dashboard development
 
 ## Analytical Highlight (SQL)
 To support the marketing team’s goal of high-value retention, I developed the following query to identify top-tier customers:
