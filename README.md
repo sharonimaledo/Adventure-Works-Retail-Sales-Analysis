@@ -33,5 +33,5 @@ LIMIT 50;
 ## Repository Structure
 - Project Management: Project Brief 
 - Analysis: SQL queries answering 15 business-driven questions.
-- Visualizations: Power BI report file.
 - Report: Final presentation slides summarizing findings and recommendations.
+- Visualizations: Power BI dashboard file.
