@@ -1,6 +1,6 @@
 # Adventure Works Retail Sales Analysis
 ## Transforming Global Sales Data into Strategic Business Intelligence
-This repository contains the complete analysis for the Adventure Works project. Using a combination of PostgreSQL and Power BI, I transformed raw transactional data into actionable insights focused on customer segmentation, product performance, and operational efficiency.
+This repository contains the complete analysis for the Adventure Works project. Using a combination of Excel, PostgreSQL, and Power BI, I transformed raw transactional data into actionable insights focused on customer segmentation, product performance, and operational efficiency.
 
 ## Key Insights
 - Customer Spending: Identified high-value customers with total spend exceeding $10,000 for targeted retention.
