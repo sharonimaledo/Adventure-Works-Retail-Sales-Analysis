@@ -50,7 +50,7 @@ Throughout this project, you’ll be using a number of relational data sets from
 ## Project Deliverables
 •	SQL Scripts: A file containing the 15 primary business intelligence queries.
 
-•	Power BI Report: A report showing sales and return trends.
+•	Power BI Dashboard: Executive dashboard showing key business insights.
 
 •	Strategic Presentation: A report summarizing insights and recommendations for executive stakeholders.
 
